@@ -1,0 +1,2 @@
+Generate a python script to create a certificate of course completion for 'John Doe' where the course title is: 'Prompt Engineering' and delivered by 'DeepLearning.AI' company with their logo, and add a border with '#FF3A3E' color in SVG format using 'drawsvg' library.
+
